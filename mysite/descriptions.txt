@@ -1,0 +1,11 @@
+link to access:
+
+for question-1:
+detail: http://127.0.0.1:8000/polls/1/
+vote: http://127.0.0.1:8000/polls/1/vote
+result: http://127.0.0.1:8000/polls/1/result
+
+for question-2:
+detail: http://127.0.0.1:8000/polls/2/
+vote: http://127.0.0.1:8000/polls/2/vote
+result: http://127.0.0.1:8000/polls/2/result
